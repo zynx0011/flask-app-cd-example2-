@@ -23,7 +23,7 @@ spec:
     spec:
       containers:
         - name: flask-container-v2-0
-          image: sayantan2k21/flask-example02:v2.0-1
+          image: zynx01/flask-example02:v1.0-26
           ports:
             - containerPort: 5000
           resources:
